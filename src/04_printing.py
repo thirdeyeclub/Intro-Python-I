@@ -13,5 +13,6 @@ z = "I like turtles!"
 # x is 10, y is 2.25, z is "I like turtles!"
 
 # Use the 'format' string method to print the same thing
-
+"x is %s , y is %s , z is %s" % (x,y,z)
 # Finally, print the same thing using an f-string
+f"I am {x} years old. m favorite number is {y} & {z}"
