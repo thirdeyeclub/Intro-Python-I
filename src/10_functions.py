@@ -4,7 +4,7 @@ def suit(x):
     return x % 2 ==0
 
 # Read a number from the keyboard
-num = 11
+num = input("Enter A #")
 
 # Print out "Even!" if the number is even. Otherwise print "Odd"
 
